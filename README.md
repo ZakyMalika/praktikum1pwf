@@ -2,14 +2,15 @@
 📦 Tugas-Praktikum
  ┣ 📜 praktikum1.md
  ┣ 📜 praktikum2.md
-
  ┗ 📜 README.md
 ```
-praktikum1 
+praktikum 1
+<img width="2869" height="1726" alt="image" src="https://github.com/user-attachments/assets/3efe406a-0d56-42ee-9907-1cb9e7b36d22" />
+
+praktikum 2 
 <img width="2879" height="1716" alt="Screenshot 2026-03-01 005154" src="https://github.com/user-attachments/assets/0ae1586b-4f30-46c6-9f2f-3731b9972675" />
 
-praktikum 2
-<img width="2869" height="1726" alt="image" src="https://github.com/user-attachments/assets/3efe406a-0d56-42ee-9907-1cb9e7b36d22" />
+
 
 
 
