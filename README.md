@@ -9,6 +9,8 @@ praktikum 1
 
 praktikum 2 
 <img width="2879" height="1716" alt="Screenshot 2026-03-01 005154" src="https://github.com/user-attachments/assets/0ae1586b-4f30-46c6-9f2f-3731b9972675" />
+<img width="2879" height="1712" alt="image" src="https://github.com/user-attachments/assets/a14b18ce-e739-4c05-95e5-a03c921db2d9" />
+<img width="2879" height="1723" alt="image" src="https://github.com/user-attachments/assets/294f230d-32e1-494f-aae1-7de51e3653c1" />
 
 
 
