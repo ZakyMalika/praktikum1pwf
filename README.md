@@ -1,3 +1,10 @@
+```text
+📦 Tugas-Praktikum
+ ┣ 📜 praktikum1.md
+ ┣ 📜 praktikum2.md
+ ┗ 📜 README.md
+```
+
 <img width="2869" height="1726" alt="image" src="https://github.com/user-attachments/assets/3efe406a-0d56-42ee-9907-1cb9e7b36d22" />
 
 <!-- <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
