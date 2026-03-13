@@ -12,6 +12,8 @@ praktikum 2
 <img width="2879" height="1712" alt="image" src="https://github.com/user-attachments/assets/a14b18ce-e739-4c05-95e5-a03c921db2d9" />
 <img width="2879" height="1723" alt="image" src="https://github.com/user-attachments/assets/294f230d-32e1-494f-aae1-7de51e3653c1" />
 
+Praktikum 3
+<img width="1171" height="857" alt="image" src="https://github.com/user-attachments/assets/e2c14cd9-1c0b-4b9d-bdb5-8706a0084e13" />
 
 
 
