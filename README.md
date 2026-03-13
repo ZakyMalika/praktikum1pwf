@@ -4,8 +4,17 @@
  ┣ 📜 praktikum2.md
  ┗ 📜 README.md
 ```
-
+praktikum 1
 <img width="2869" height="1726" alt="image" src="https://github.com/user-attachments/assets/3efe406a-0d56-42ee-9907-1cb9e7b36d22" />
+
+praktikum 2 
+<img width="2879" height="1716" alt="Screenshot 2026-03-01 005154" src="https://github.com/user-attachments/assets/0ae1586b-4f30-46c6-9f2f-3731b9972675" />
+<img width="2879" height="1712" alt="image" src="https://github.com/user-attachments/assets/a14b18ce-e739-4c05-95e5-a03c921db2d9" />
+<img width="2879" height="1723" alt="image" src="https://github.com/user-attachments/assets/294f230d-32e1-494f-aae1-7de51e3653c1" />
+
+
+
+
 
 <!-- <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
