@@ -2,7 +2,10 @@
 
 namespace App\Providers;
 
+
 use Illuminate\Support\ServiceProvider;
+use Illuminate\Support\Facades\Gate;
+use App\Models\User; 
 
 class AppServiceProvider extends ServiceProvider
 {
@@ -19,6 +22,10 @@ class AppServiceProvider extends ServiceProvider
      */
     public function boot(): void
     {
-        //
+        // 3. Definisikan Gate 'export-product' di sini
+        Gate::define('export-product', function (User $user) {
+            // Logika: Hanya return true (diizinkan) jika role user adalah 'admin'
+            return $user->role === 'admin';
+        });
     }
 }
