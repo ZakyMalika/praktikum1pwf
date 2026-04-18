@@ -115,4 +115,5 @@ class ProductController extends Controller
 
         return redirect()->route('product.index')->with('success', 'Product berhasil dihapus');
     }
+
 }
