@@ -15,6 +15,19 @@ praktikum 2
 Praktikum 3
 <img width="1171" height="857" alt="image" src="https://github.com/user-attachments/assets/e2c14cd9-1c0b-4b9d-bdb5-8706a0084e13" />
 
+praktikum 5(input)
+<img width="1714" height="1056" alt="image" src="https://github.com/user-attachments/assets/6a8c3ce1-5939-404d-aec9-668473683c82" />
+
+
+Praktikum 6 (Validasi input)
+<img width="2880" height="1350" alt="image" src="https://github.com/user-attachments/assets/7cfbfbe1-71aa-4d78-ab3a-e8f2faaf3501" />
+<img width="2798" height="1040" alt="image" src="https://github.com/user-attachments/assets/f876eddb-04c3-4950-8aef-858c1b95af0a" />
+
+Pertemuan 7 (tombol edit dan delete di detail)
+<img width="1112" height="730" alt="image" src="https://github.com/user-attachments/assets/babc5d61-88ab-4932-bf5c-fd58cee39c41" />
+
+UCP
+<img width="1864" height="548" alt="image" src="https://github.com/user-attachments/assets/5c335a5b-986e-4753-bc44-45862262bc72" />
 
 
 
