@@ -15,8 +15,8 @@ class ProductPolicy
      */
     public function update(User $user, Product $product): bool
     {
-        // Izinkan JIKA user adalah admin DAN user adalah pembuat produk tersebut
-        return $user->role === 'admin' && $user->id === $product->user_id;
+        // Izinkan JIKA user adalah admin ATAU user adalah pembuat produk tersebut
+        return $user->role === 'admin' || $user->id === $product->user_id;
     }
 
     /**
@@ -24,8 +24,8 @@ class ProductPolicy
      */
     public function delete(User $user, Product $product): bool
     {
-        // Izinkan JIKA user adalah admin DAN user adalah pembuat produk tersebut
-        return $user->role === 'admin' && $user->id === $product->user_id;
+        // Izinkan JIKA user adalah admin ATAU user adalah pembuat produk tersebut
+        return $user->role === 'admin' || $user->id === $product->user_id;
     }
 
     // ... method lain biarkan saja ...

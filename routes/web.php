@@ -4,6 +4,7 @@ use App\Http\Controllers\ProfileController;
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\AboutController;
 use App\Http\Controllers\ProductController;
+use App\Http\Controllers\KategoriController;
 
 Route::get('/', function () {
     return view('welcome');
@@ -32,7 +33,23 @@ Route::middleware('auth')->group(function () {
 
     // Rute dinamis yang menangkap segalanya (/product/{apapun}) WAJIB ditaruh paling bawah
     Route::get('/product/{id}', [ProductController::class, 'show'])->name('product.show');
+
+
+// kategori Rute statis (tanpa parameter {}) taruh di atas
+    Route::get('/kategori', [KategoriController::class, 'index'])->name('kategori.index');
+    Route::post('/kategori', [KategoriController::class, 'store'])->name('kategori.store');
+    Route::get('/kategori/create', [KategoriController::class, 'create'])->name('kategori.create');
+    Route::get('/kategori/export', [KategoriController::class, 'export'])->name('kategori.export')->middleware('can:export-kategori');
+
+    // Rute dengan parameter tambahan spesifik taruh di tengah
+    Route::get('/kategori/edit/{kategori}', [KategoriController::class, 'edit'])->name('kategori.edit');
+    Route::put('/kategori/update/{id}', [KategoriController::class, 'update'])->name('kategori.update');
+    Route::delete('/kategori/delete/{id}', [KategoriController::class, 'delete'])->name('kategori.delete');
+
+    // Rute dinamis yang menangkap segalanya (/kategori/{apapun}) WAJIB ditaruh paling bawah
+    Route::get('/kategori/{id}', [KategoriController::class, 'show'])->name('kategori.show');
 });
+
 Route::get('/dashboard', function () {
     return view('dashboard');
 })->middleware(['auth', 'verified'])->name('dashboard');

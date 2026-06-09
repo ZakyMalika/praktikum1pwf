@@ -15,6 +15,8 @@ return new class extends Migration
             $table->id();
             // $table->string('user_id')->foreign('user_id')->references('id')->on('users')->onDelete('cascade');
             $table->foreignId('user_id')->constrained('users')->onDelete('cascade');
+            // $table->foreignId('category_id')->constrained('categories')->onDelete('cascade');
+            $table->foreignId('category_id')->nullable()->after('user_id')->constrained('category')->cascadeOnDelete();
             $table->string('name');
             $table->decimal('quantity', 8, 2);
             $table->decimal('price', 8, 2);
