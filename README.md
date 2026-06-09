@@ -15,6 +15,8 @@ praktikum 2
 Praktikum 3
 <img width="1171" height="857" alt="image" src="https://github.com/user-attachments/assets/e2c14cd9-1c0b-4b9d-bdb5-8706a0084e13" />
 
+Praktikum 6 (Validasi input)
+<img width="2880" height="1350" alt="image" src="https://github.com/user-attachments/assets/7cfbfbe1-71aa-4d78-ab3a-e8f2faaf3501" />
 
 
 
